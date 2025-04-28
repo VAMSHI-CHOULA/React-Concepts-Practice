@@ -20,6 +20,7 @@ function App() {
         <h1>Heading1</h1>
         <h2>Heading2</h2>
         <button>Button</button>
+        <h3>Heading3</h3>
       </header>
     </div>
   );
